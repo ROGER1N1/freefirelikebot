@@ -158,5 +158,5 @@ This project is licensed under the MIT License. Feel free to use and modify it.
 
 ## Author
 
-[Paul Alfredo](https://github.com/ROGER1N1)
+[not_thorny](https://github.com/ROGER1N1)
 
