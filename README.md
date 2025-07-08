@@ -140,7 +140,7 @@ RAPIDAPI_KEY=
 ```
 
 ## Example Output
-![image](https://github.com/user-attachments/assets/de73e78c-cb1b-4ce4-8795-474ba685fa06)
+
 
 
 
